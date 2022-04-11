@@ -1,2 +1,2 @@
 # MyPythonLearning
-Here i put the exercise i will do to learn python
+Here i will put the exercises i do to learn python
